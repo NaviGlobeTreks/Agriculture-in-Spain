@@ -17,7 +17,7 @@
         "email": "https://d34ftvyq1mhc1v.cloudfront.net/Spainportugal_20D_web-hero.jpg", 
         "grade": "9-12", 
         "id": "1wLb_ERI20Ks2iX62p6kjbnOGyKOXaXGYjx4Cj7RbFDY", 
-        "private": "True", 
+        "private": "False", 
         "subject": "Science", 
         "title": "Agriculture in Spain"
     }
